@@ -1,5 +1,5 @@
 export interface MessageEmbed {
-  author: Author;
+  author?: Author;
   title: string;
   url: string;
   description: string;
