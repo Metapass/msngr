@@ -1,6 +1,6 @@
 {
   "name": "@metapasshq/msngr",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "a tiny utility to post to user-provided webhooks without worrying about platforms built for [@metapass](https://github.com/metapass)",
   "main": "lib/index.js",
   "scripts": {
